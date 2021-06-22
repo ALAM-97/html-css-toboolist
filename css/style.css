@@ -108,12 +108,56 @@ li{
     font-size: 10px;
 }
 
+.cross-mark-circle{
+    vertical-align: middle;
+    color: red;
+    border: 1px solid red;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    font-size: 10px;
+}
+
 .editorial{
     vertical-align: middle;
+    text-align: center;
     display: inline-block;
     width: 50px;
     height: 20px;
     background-color: #20A9E5;
+    border-radius: 8px;
+}
+
+.Q1-goals{
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    width: 60px;
+    height: 20px;
+    background-color:violet;
+    border-radius: 8px;
+}
+
+.recruiting{
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    width: 70px;
+    height: 20px;
+    background-color:green;
+    border-radius: 8px;
+}
+
+.mobile{
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    background-color: orange;
     border-radius: 8px;
 }
 
@@ -122,5 +166,4 @@ li{
     font-size: 8px;
     line-height: 20px;
     text-align: center;
-    padding: 10px;
 }
