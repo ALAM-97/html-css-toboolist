@@ -54,10 +54,6 @@ hr{
     margin-bottom: 20px;
 }
 
-.light-blue{
-    background-color: #20A9E5;
-}
-
 .text-format{
     font-weight: bold;
     font-size: 20px;
@@ -66,6 +62,7 @@ hr{
 /* BUTTON SECTION */
 
 .button-1{
+    background-color: #20A9E5;
     height: 35px;
     border-radius: 5px;
     border: none;
@@ -103,19 +100,27 @@ li{
     color: green;
     border: 1px solid green;
     display: inline-block;
-    height: 15px;
-    width: 15px;
+    height: 20px;
+    width: 20px;
     border-radius: 50%;
     line-height: 20px;
+    text-align: center;
+    font-size: 10px;
 }
 
-.check-mark{
+.editorial{
+    vertical-align: middle;
     display: inline-block;
-    line-height: 5px;
-    height: 15px;
-    width: 15px;
-    color: green;
-    font-size: 10px;
+    width: 50px;
+    height: 20px;
+    background-color: #20A9E5;
+    border-radius: 8px;
+}
+
+.list-text{
+    color: white;
+    font-size: 8px;
+    line-height: 20px;
     text-align: center;
-    padding-bottom: 20px;
+    padding: 10px;
 }
