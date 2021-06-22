@@ -38,7 +38,7 @@ body{
     margin: auto;
     margin-top: 100px;
     max-width: 1200px;
-    height: 500px;    /*JUST TO SHOW MAIN */
+    height: 600px;    /*JUST TO SHOW MAIN */
     background-color: white;
     border-radius: 10px; 
 }
@@ -158,6 +158,26 @@ li{
     width: 50px;
     height: 20px;
     background-color: orange;
+    border-radius: 8px;
+}
+
+.website{
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    background-color: rgb(221, 20, 144);
+    border-radius: 8px;
+}
+
+.sales{
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    width: 50px;
+    height: 20px;
+    background-color: lightgreen;
     border-radius: 8px;
 }
 
