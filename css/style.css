@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 body{
@@ -28,7 +29,6 @@ body{
     display: inline-block;
     vertical-align: middle;
     line-height: 100px;
-    font-family: sans-serif;
     font-size: 50px;
 }
 
@@ -51,10 +51,16 @@ hr{
     background-color: lightgrey;
     height: 3px;
     border: none;
+    margin-bottom: 20px;
 }
 
 .light-blue{
     background-color: #20A9E5;
+}
+
+.text-format{
+    font-weight: bold;
+    font-size: 20px;
 }
 
 /* BUTTON SECTION */
@@ -80,4 +86,36 @@ hr{
 .button-text-2{
     color: lightgrey;
     padding: 15px;
+}
+
+/* LIST SECTION */
+
+li{
+    list-style: none;
+    vertical-align: middle;
+    padding-top: 10px;
+    padding-left: 3px;
+    line-height: 15px;
+}
+
+.check-mark-circle{
+    vertical-align: middle;
+    color: green;
+    border: 1px solid green;
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    line-height: 20px;
+}
+
+.check-mark{
+    display: inline-block;
+    line-height: 5px;
+    height: 15px;
+    width: 15px;
+    color: green;
+    font-size: 10px;
+    text-align: center;
+    padding-bottom: 20px;
 }
