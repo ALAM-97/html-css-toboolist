@@ -21,6 +21,7 @@ body{
     height: 70px;
     vertical-align: middle;
     line-height: 100px;
+    padding-left: 25px;
 }
 
 .logo-title{
@@ -36,8 +37,47 @@ body{
 .main-section{
     margin: auto;
     margin-top: 100px;
-    max-width: 900px;
-    height: 500px;
+    max-width: 1200px;
+    height: 500px;    /*JUST TO SHOW MAIN */
     background-color: white;
     border-radius: 10px; 
+}
+
+.section-margin{
+    padding: 20px 50px;
+}
+
+hr{
+    background-color: lightgrey;
+    height: 3px;
+    border: none;
+}
+
+.light-blue{
+    background-color: #20A9E5;
+}
+
+/* BUTTON SECTION */
+
+.button-1{
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button-text-1{
+    color: white;
+    padding: 15px;  
+}
+
+.button-2{
+    height: 35px;
+    border-radius: 5px;
+    background-color: white;
+    border-color: lightgrey;
+}
+
+.button-text-2{
+    color: lightgrey;
+    padding: 15px;
 }
