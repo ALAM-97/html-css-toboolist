@@ -128,60 +128,54 @@ li{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 50px;
-    height: 20px;
+    padding: 0px 5px;
     background-color: #20A9E5;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .Q1-goals{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 60px;
-    height: 20px;
+    padding: 0px 5px;
     background-color:violet;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .recruiting{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 70px;
-    height: 20px;
+    padding: 0px 5px;
     background-color:green;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .mobile{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 50px;
-    height: 20px;
+    padding: 0px 5px;
     background-color: orange;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .website{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 50px;
-    height: 20px;
+    padding: 0px 5px;
     background-color: rgb(221, 20, 144);
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .sales{
     vertical-align: middle;
     text-align: center;
     display: inline-block;
-    width: 50px;
-    height: 20px;
+    padding: 0px 5px;
     background-color: lightgreen;
-    border-radius: 8px;
+    border-radius: 5px;
 }
 
 .list-text{
