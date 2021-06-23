@@ -63,9 +63,9 @@ hr{
 
 .button-1{
     background-color: #20A9E5;
-    height: 35px;
     border-radius: 5px;
     border-color: #20A9E5;
+    padding: 10px;
 }
 
 .button-text-1{
@@ -74,7 +74,7 @@ hr{
 }
 
 .button-2{
-    height: 35px;
+    padding: 10px;
     border-radius: 5px;
     background-color: white;
     border-color: lightgrey;
